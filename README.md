@@ -1,4 +1,4 @@
-To start run npm init 
+To start run npm init - 
 npm run test to run tests
 
 Mars-Rover-Mission
