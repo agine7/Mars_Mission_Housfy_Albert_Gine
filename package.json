@@ -1,0 +1,15 @@
+{
+  "name": "prueba-housfy",
+  "version": "0.0.1",
+  "description": "Mars Rover Mission",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Albert Giné",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
